@@ -6,3 +6,6 @@ Copy the HTML code in it's entirety, paste it into your text editor, save the fi
 
 Instructions for adding your own .m3u8 https or http strings.
 Change the url path in the html code.
+
+
+![Screen Shot 2024-01-29 at 3 49 50 PM](https://github.com/cgallup/Quad-View/assets/44879985/925a2379-a8f6-485f-a795-38476b9cc39a)
