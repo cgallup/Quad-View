@@ -1,8 +1,9 @@
 # Quad-View
 A html CSS with 4 auto windows for streaming media simultaneously good for m3u8, for example Close Circuit Television (CCTV).
+This html demonstrates m3u8 streaming protocol, so you'll need a browser capable of streaming m3u8, for example Safari which has it native.
 
 Instructions for use:
-Copy the HTML code in it's entirety, paste it into your text editor, save the file with the extension of .html then open in your internet browser by double clicking on the new file.  
+Copy the HTML code in it's entirety (or download it), paste it into your text editor, save the file with the extension of .html then open in your internet browser by double clicking on the new file.  
 
 Instructions for adding your own .m3u8 https or http strings.
 Change the url path in the html code.
